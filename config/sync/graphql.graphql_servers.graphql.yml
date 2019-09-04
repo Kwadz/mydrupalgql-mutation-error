@@ -1,0 +1,12 @@
+uuid: e3b85e88-8d9f-42ef-ae04-f7544d17deac
+langcode: en
+status: true
+dependencies: {  }
+name: graphql
+label: GraphQL
+schema: mydrupalgql
+schema_configuration: {  }
+endpoint: /graphql
+debug: false
+caching: false
+batching: true

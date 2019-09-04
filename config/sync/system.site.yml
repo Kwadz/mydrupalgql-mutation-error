@@ -1,0 +1,14 @@
+uuid: 73ac82ec-8f6f-4e52-b20f-d2c3d62bbe6b
+name: 'My Drupal Site'
+mail: msecc@free.fr
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
